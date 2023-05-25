@@ -36,9 +36,3 @@ I also like to travel, read self-improvement books, and play games sometimes.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Temirkulov&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
