@@ -4,12 +4,13 @@
 I am a Computer Science student at Sunway University!<br>
 I gained some experience in PHP and C++ as a student but I dabbled in some side projects which include<br>
 
-  - JavaScript/Discord.js for my personal discord bot<br>
+  - JavaScript/Discord.js for various Discord Bots<br>
   - PHP/HTML/CSS for a personal portfolio site<br>
-  - MySQL
+  - Godot 4.0.3 with GDScript
+  - Laravel 10 for a E-Commerce Website
 
 📚 I am currently learning:
-- Unreal Engine 5 with C++
+- Laravel 10
 - Godot 4.0.3 with C++
 - JavaScript/React
 - OOP/OOM in C++
