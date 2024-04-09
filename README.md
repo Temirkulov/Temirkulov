@@ -12,9 +12,9 @@ I gained some experience in PHP and C++ as a student but I dabbled in some side 
 📚 I am currently learning:
 - Laravel 10
 - Godot 4.0.3 with C++
-- JavaScript/React
-- OOP/OOM in C++
+- JavaScript
 
+  
 I speak 2 Languages:
 - 🇬🇧 English
 - 🇷🇺 Russian
