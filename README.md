@@ -1,18 +1,18 @@
 [![](https://visitcount.itsvg.in/api?id=Temirkulov&icon=0&color=5)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-I am a Computer Science student at Sunway University!<br>
-I gained some experience in PHP and C++ as a student but I dabbled in some side projects which include<br>
+I am a Bachelor's in Computer Science student at Sunway University!<br>
+I have some experience in the following areas:<br>
 
-  - JavaScript/Discord.js for various Discord Bots<br>
-  - PHP/HTML/CSS for a personal portfolio site<br>
-  - Godot 4.0.3 with GDScript
-  - Laravel 10 for a E-Commerce Website
+  - Javascript (Discord.js/React.js)<br>
+  - PHP/HTML/CSS for web-site applications (Laravel)<br>
+  - Godot 4.0.3 with GDScript for Game Development
+  - C++ For Arduino/Raspberry Pi Embedded Systems (Robotics)
 
-📚 I am currently learning:
-- Laravel 10
-- Godot 4.0.3 with C++
-- JavaScript
+📚 I am currently working on:
+- Robotic Engineering projects
+- Embedded System for Smart Charging
+- Matlab/Python For Artificial Intelligence/Image Processing
 
   
 I speak 2 Languages:
