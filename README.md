@@ -1,5 +1,4 @@
 ### Temirkulov, Mirkamol
 
-MSc in Informatics, TUM Munich
-
-Bsc in Computer Science, Sunway University
+- MSc in Informatics, TUM Munich
+- Bsc in Computer Science, Sunway University
