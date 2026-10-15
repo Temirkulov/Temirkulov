@@ -5,4 +5,4 @@
 
 Interested in Machine Learning Algorithms, Computer Vision (SLAM) and Robotics
 
-CVPR, ICML, ECCV
+Submitted to CVPR, ICML, ECCV
